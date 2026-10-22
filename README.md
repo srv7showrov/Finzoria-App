@@ -1,6 +1,6 @@
 # Finzoria
 
-**Global student finance. Brighter futures.**
+**[Explore Finzoria Live →](https://finzoria-app.onrender.com)**
 
 Finzoria is a cross-border finance planner for international students.
 Manage budgets, tuition bills, currencies and family contributions
